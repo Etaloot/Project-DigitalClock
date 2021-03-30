@@ -1,2 +1,3 @@
 # readme.me
-This is README.md
+This is the Digital Clock in Javascript.
+
