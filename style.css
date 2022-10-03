@@ -2,14 +2,15 @@
 
 body {
   background-color: #121212;
-  padding-top: 30rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
 }
 
 #clock {
   font-family: 'Orbitron', sans-serif;
   color: #66ff99;
   font-size: 66px;
-  text-align: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
 }
